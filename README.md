@@ -2,7 +2,7 @@
 Contiene proyectos realizados en Bootcamp
 
 ## SPRINT 1: Python básico
-
+En este sprint se aprenden los fundamentos de python como: tipos de datos, listas, diccionarios, funciones.
 
 ## SPRINT 2: Python continuación
 
