@@ -5,7 +5,7 @@ Contiene proyectos realizados en Bootcamp
 En este sprint se aprenden los fundamentos de python como: tipos de datos, listas, diccionarios, funciones.
 
 ## SPRINT 2: Python continuación
-
+Añade por favor más información a este sprint.
 
 ## SPRINT 3: Data wrangling 1
 
